@@ -8,7 +8,7 @@
 
 <!-- Typing text: edit the lines= part to change the animated sentences (separate with ;) -->
 <a href="https://github.com/praveen077-netizen">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Frontend+Developer+%26+Graphic+Designer;B.Tech+Cyber+Security+Student;Turning+Figma+designs+into+HTML+%26+CSS;Learning+Ethical+Hacking+%26+Web+Security" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Frontend+Developer+%26+Graphic+Designer;Cyber+Security+Student;Turning+Figma+designs+into+WEB-Pages+%26+by+%26+HTML ;Learning+Ethical+Hacking+%26+Web+Security" alt="Typing animation" />
 </a>
 
 <br/>

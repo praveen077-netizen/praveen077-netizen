@@ -3,6 +3,9 @@
 
 
 
+<a href="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=+PRAVEEN+NAVDEEP&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
+
+
 <!-- Typing text: edit the lines= part to change the animated sentences (separate with ;) -->
 <a href="https://github.com/praveen077-netizen">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Frontend+Developer+%26+Graphic+Designer;B.Tech+Cyber+Security+Student;Turning+Figma+designs+into+HTML+%26+CSS;Learning+Ethical+Hacking+%26+Web+Security" alt="Typing animation" />

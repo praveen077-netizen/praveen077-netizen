@@ -1,7 +1,7 @@
 <!-- ═══════════════════ 1. HERO BANNER ═══════════════════ -->
 <div align="center">
 
-[<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Bondada%20Praveen%20Navdeep&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%26%20Graphic%20Designer&descAlignY=58&descSize=18" width="100%" alt="Header banner"/>](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Input+text&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
+
 
 <!-- Typing text: edit the lines= part to change the animated sentences (separate with ;) -->
 <a href="https://github.com/praveen077-netizen">
